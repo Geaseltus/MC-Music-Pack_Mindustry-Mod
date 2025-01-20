@@ -6,7 +6,7 @@ Ru:Заменяет музыку игры на музыку Майнкрафта
 
 List all music pack in mod/Список музыки мода
 
-Blocks - editot
+Blocks - editor
 
 Dead Voxel - boss1
 
